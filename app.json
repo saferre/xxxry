@@ -1,0 +1,19 @@
+{
+  "name": "快速部署demo",
+  "description": "部署后路径是UUID-vless或UUID-vmess",
+  "keywords": ["V", "X"],
+  "env": {
+    "ProxySite": {
+      "description": "伪装网站，例如：mirror.umd.edu ",
+      "value": "mirror.umd.edu"
+    },
+
+    "UUID": {
+      "description": "https://www.uuidgenerator.net",
+      "value": "2bc5619b-f915-4b5a-a9ae-20efee241caf"
+    }
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
